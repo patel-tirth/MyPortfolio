@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Portfolio website",
   "main": "index.js",
-  "homepage": "https://patel-tirth.github.io/MyPortfolio",
+  "homepage": "https://patel-tirth.github.io/MyPortfolio/dist",
   "dependencies": {
     "gh-pages": "^3.1.0"
   },
