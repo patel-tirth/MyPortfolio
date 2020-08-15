@@ -1,0 +1,25 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website",
+  "main": "index.js",
+  "homepage": "https://patel-tirth.github.io/MyPortfolio",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patel-tirth/MyPortfolio.git"
+  },
+  "author": "Tirth Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patel-tirth/MyPortfolio/issues"
+  }
+  
+}
