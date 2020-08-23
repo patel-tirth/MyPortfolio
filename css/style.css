@@ -72,16 +72,25 @@ background-color: rgba(0,0,0,0.4)
 	font-size: 23px;
 }
 
+.typed2{
+	font-size: 25px;
+	font-family: 'Old Standard TT'
+}
+
 .section{
 
 	padding: 10px 10px;
-	background-color: black;
+	background-color: #141414;
 	color: white;
 
 }
 
 .aboutImage{
-	max-width: 100%;
+	/* max-width: 100%; */
+	/* width: auto; */
+	margin-right: -40%;
+	overflow: hidden;
+	border-radius: 40%;
 
 }
 
@@ -89,14 +98,15 @@ background-color: rgba(0,0,0,0.4)
 .contactSection{
 
 	/* background-color: #e74c3c; */
-	background-color: #000;
-	color: #fff;
+	background-color: #d63031;
+	color :#fff;
 }
 
 
 .skill{
 	text-align: center;
 	margin-left: 10px;
+
 }
 
 .chart{
@@ -120,7 +130,7 @@ background-color: rgba(0,0,0,0.4)
 .chart .percent{
 	/* color: #000;
 	 */
-	 color: #fff;
+	 color: #141414;
 	line-height: 152px;
 	display: inline-block;
 	font-size: 35px;
@@ -207,7 +217,9 @@ left: 0px;
 
 .contactButton:hover{
 	text-decoration: none;
-	color: #e74c3c;
+	/* color: #e74c3c;
+	 */
+	 color: #d63031;
 	background-color: #fff;
 
 }
@@ -228,7 +240,7 @@ left: 0px;
 }
 
 .filter .current{
-	background-color: #e74c3c;
+	background-color: #d63031;
 	border-color: #e74c3c;
 	color: #fff;
 }
@@ -237,6 +249,7 @@ left: 0px;
 
 	text-align: center;
 	width: 100%;
+	text-decoration: none
 
 }
 
