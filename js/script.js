@@ -32,6 +32,8 @@ var type = new Typed(".typed",{
 
 });
 
+
+
 // var type = new Typed(".typed2",{
 // 	strings: ["My name is Tirth Patel and I am Sophomore currently pursing bachelors in Computer Science at University of Illnois at Chicago."],
 // 	typeSpeed:100,
